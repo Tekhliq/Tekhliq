@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1 align="center">Welcome to Tekhliq Labs</h1>
+
+
+
 
 <!--
 **Tekhliq/Tekhliq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
